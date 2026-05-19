@@ -45,15 +45,3 @@ La consola mostrará:
 ```text
 Opción seleccionada: Opción 2
 ```
-
-## Conceptos trabajados
-
-- Interfaces gráficas con Swing
-- Manejo de eventos
-- Uso de `JOptionPane`
-- Captura de entradas del usuario
-- Salida por consola
-
-## Autor
-
-Proyecto realizado como ejercicio práctico de aprendizaje en Java.
